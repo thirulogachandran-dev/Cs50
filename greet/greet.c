@@ -1,3 +1,4 @@
+// asking inputs and printing it
 #include <stdio.h>
 
 int main(void)
