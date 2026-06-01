@@ -1,3 +1,4 @@
+// checking age by if else
 #include <stdio.h>
 
 int main(void)
